@@ -4,8 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome! One day I will get around to populating this site with content
+and updates about various projects I\'m working on.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I currently live in sunny Sydney and work full-time for [DOTABUFF](http://www.dotabuff.com/pages/about);
+a great company all about Dota statistics. My role as software engineer includes programming,
+testing, playing, and dreaming up new ideas to work on.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I\'m no longer available for freelance web development, but I\'ll be happy to
+refer you to someone if you need those services. If you are interested in
+photography services, please get in touch for more details.
+
+You can get in touch with me in the following ways:
+
+* Email: [wayne@tsai.co](mailto:wayne@tsai.co)
+* Skype: waynetsai.nz
+* Twitter: [@watbe](http://twitter.com/watbe)
+* Phone: Ask me ;)
+
+
+This site is powered by [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/).

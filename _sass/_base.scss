@@ -1,6 +1,10 @@
 /**
  * Reset some basic elements
  */
+* {
+    margin: 0;
+}
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -21,6 +25,13 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    background-image: url('/images/ny-bg-tsai.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body, html {
+    height: 100%;
 }
 
 
