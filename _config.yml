@@ -2,7 +2,7 @@
 title: Wayne Tsai
 email: wayne@tsai.co
 description: > # this means to ignore newlines until "baseurl:"
-    Hi there! I'm Wayne, a Sydney-based developer. Co-founder of TrackDota, now working at Dotabuff.
+    Hi there, I'm Wayne. Co-founder of TrackDota, now working with a great team at Dotabuff.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tsai.co" # the base hostname & protocol for your site
 twitter_username: watbe
