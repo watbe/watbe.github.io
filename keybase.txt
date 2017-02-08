@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/watbe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.tsai.co
+  * I am watbe (https://keybase.io/watbe) on keybase.
+  * I have a public key with fingerprint 3F4A 930F CA03 72D3 6E93  5450 DDCF B995 3CCA 4CBA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207c5d8b0ceb469cd92ace7029ab7b3afeb1fccbd30764948fa03fbab8a87672410a",
+            "fingerprint": "3f4a930fca0372d36e935450ddcfb9953cca4cba",
+            "host": "keybase.io",
+            "key_id": "ddcfb9953cca4cba",
+            "kid": "0101f118ee2eefa8f427cb4a752717941e9d2eea353e6406c25257ab9c78c468aecb0a",
+            "uid": "5c97613b94d83bc58336580c9eb44519",
+            "username": "watbe"
+        },
+        "service": {
+            "hostname": "www.tsai.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486594692,
+    "expire_in": 157680000,
+    "prev": "af6aed7c6aa3289bae6e164d69870ccba8fa5de9d88865e6de07511d6385744d",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ9TFVlGL8oMGHzBhNDy404Slpe6Xx/3DAagooSJEuwxe3ynve8B0/g
+vdd7L9wAaRmM2RT5qvElrsAJ4SCGEwZcUgi6DidQoISDImk6glEONlySdA6L/3r/
+efc+z+/5vb/n9zz9mzfq/L2mhju/jBiM6/K601uWqTtRU1eQi4lWKRsz5mLpaO1C
+GRJyOM3pioQZMZwgcQ4yEi/iEIk0K0BJIAFEHE4KQORECshIJGQIRYnCOZYWaF4G
+OCWLQOQBz7EcSRM4wAyYrFjSkN1mVyxOlZaSaSBQuAxVLEdKFIsEiqEZXJKgLAoC
+Q0EIaChqhSetDq1CFScCBwpXrGpMfZjX5P0Pfl03TsgEwSNEIiQDXqZJDoo04BiS
+IziBJpAgqRlAMRRiaZyFJEMyHBAFyPGQZnmAoLimO3ONjoECxxKUKNAST4mQ4SmK
+ZXgcCqonNEMIGtCB7BZwCqloF3CKCMszYGooS4FIc1VrYz3tcoU7HUAJh1ovNrvV
+aYXWDDVx0um0GbU6Z7ZtDYhE838UZlGxSKqFakEWsjsUqwUzEioSOhWNk6B5lhHU
+8ZAGDH1sU+zIrGgIhmN5XD3aNyhLpQQyC5DEQRYAiuQFESAWESwtsQLP4eoUVacA
+I6nm8LzKiFgJ4RxDEBJL8QxH0xKmNXXaYsWMrCoTpKmUDiXNApyZdrXjvt4Ub52X
+v87XZ4O2Wjp/v4D1hYshX1hNn9m7LXnhme+3x7pvBjya7jmaVBN2buTvFf2TOVdO
+Tln/Ty8GJXQs144GtroP5UR5imM9u80fUfMTj8rzx8vZ8Z1+DwYGL5FjfZ7t772U
+H3sjtNeQVDyX4nNlumHp12jrN5PF3a/t2lft3j/Qa5g+298kFT3taon5Y9dbIWfo
+vTWlW8FvS41tXQ/rP6t3h16FpobODVM9BzKNQ0sC1jdoW6xwfJr9iny/Kiy57k+P
+sjhT4rP8xuShd8YWv9PNtmSLV88Ftke/Pxw9UZDa+LR6uG7778bK/e1vuxM2Xa7n
+XXvK/cLGfvSlkhsdXo7bX+XeHXTtHIm6lZzYNJRnmIsX3o0c1z+YHDz8pLb1l/ht
+E4pFKXuTbU2UL37+cNZyd/TCzxGNcc3XTGMVxiOVIVmgYqRvX0HCB1VtBVe8Tca5
+S4mvet+zfO9u9pr/4oehZa49w9lx7fHptufXrRGP7+XNLPudTTPFROV2X7CNPsu7
+vcnzSeGehpu7UcTLRw7uaF41DeirS1foJT7wjj3/+vPX284UrczcLxnojGqY7zmg
+m/0rsjAYqzkamdTUnB+0dctCXa5nJH45O3jzlhuxmR+GG0oUVJZQ1OehT9ErqakL
+RKj+mN9UyNew0LIjbj4jOfVyUEewPb9Uv+ie1Uc161KqNh4+X3lcnqld/af4YsB5
+MlR/oqX6eMutfwHqis1j
+=pXdQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/watbe
+
+==================================================================
