@@ -1,8 +1,8 @@
 # Site settings
 title: Wayne Tsai
-email: wayne@tsai.co
+email: me@tsai.co
 description: > # this means to ignore newlines until "baseurl:"
-    Hi there, I'm Wayne. Co-founder of TrackDota. Building a bank at Monzo.
+    Hi there, I'm Wayne. I'm building the best bank in the world with Monzo.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.tsai.co" # the base hostname & protocol for your site
 twitter_username: watbe
