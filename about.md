@@ -4,18 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Welcome! One day I will get around to populating this site with content
-and updates about various projects I\'m working on.
+Currently, I'm based in London working for an awesome company called [Monzo](https://www.monzo.com).
+Together, we're building the best bank in the world. Follow us at [@monzo](http://twitter.com/monzo).
 
-I'm currently based in London, working for an awesome company called [Monzo](https://www.monzo.com).
-Together, we're building the best bank in the world.
-
-Previously, I worked at [Dotabuff](https://www.dotabuff.com) where I was a Full-Stack Engineer working
-on various projects including data analysis, live esports, user experience design and micro-service implementations.
+Previously, I've worked at [Dotabuff](https://www.dotabuff.com) where I was a Full-Stack Engineer.
+I led projects related to data analysis, esports, frontend and backend development, and built with microservices.
 
 I founded [TrackDota](https://www.trackdota.com) with [Tim Sergeant](https://www.timsergeant.com) in 2014.
 
-I\'m no longer available for freelance web development, but I\'ll be happy to
+I'm no longer available for freelance web development, but I'll be happy to
 refer you to someone if you need those services. 
 
 You can get in touch with me in the following ways:
