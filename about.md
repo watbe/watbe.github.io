@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm currently on the Apple Pay team in London.
+I'm currently at Apple Pay in London.
 
 I was previously working on Payments at [Monzo](https://www.monzo.com), UK's leading [neobank](https://en.wikipedia.org/wiki/Neobank).
 
