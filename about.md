@@ -13,6 +13,6 @@ I've also worked at [Elo Entertainment](https://www.elo.io/) where I helped buil
 You can get in touch with me in the following ways:
 
 * Email: [me@tsai.co](mailto:me@tsai.co)
-* Twitter: [@watbe](http://twitter.com/watbe)
+* Bluesky: [@watbe.dev](https://bsky.app/profile/watbe.dev)
 
 This site is compiled by [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
