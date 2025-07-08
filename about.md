@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm currently at Apple Pay in London.
+I'm currently building my own product, stay tuned! 
 
-I was previously working on Payments at [Monzo](https://www.monzo.com), UK's leading [neobank](https://en.wikipedia.org/wiki/Neobank).
+Previously, I worked for Apple Pay (Server Engineering) in London.
+
+Before that, I worked on Payments at [Monzo](https://www.monzo.com), UK's leading [neobank](https://en.wikipedia.org/wiki/Neobank).
 
 I've also worked at [Elo Entertainment](https://www.elo.io/) where I helped build a range of gaming statistics websites.
 
